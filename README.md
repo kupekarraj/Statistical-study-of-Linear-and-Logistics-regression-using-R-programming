@@ -1,4 +1,4 @@
-# kupekarraj-Statistical-study-of-Linear-and-Logistics-regression-using-R-programming
+# Statistical study of Linear and Logistics regression using R programming
 Logistics Regression
 Objectives: The goal is to carry out a statistical analysis using binomial Logistics Regression. The analysis
 is performed on the Global Attitudes and Trends dataset which is a US-Germany relationship survey. A
